@@ -1,0 +1,4 @@
+Subject 42 POS Evaluation
+MAE  : 1.93 BPM
+RMSE : 2.89 BPM
+R    : 0.9225

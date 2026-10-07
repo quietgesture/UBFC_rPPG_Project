@@ -1,0 +1,4 @@
+Subject 24 CHROM Evaluation
+MAE  : 25.05 BPM
+RMSE : 39.44 BPM
+R    : -0.7347

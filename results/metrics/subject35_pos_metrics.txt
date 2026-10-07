@@ -1,0 +1,4 @@
+Subject 35 POS Evaluation
+MAE  : 1.70 BPM
+RMSE : 2.01 BPM
+R    : 0.9910

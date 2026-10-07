@@ -1,0 +1,4 @@
+Subject 31 POS Evaluation
+MAE  : 1.81 BPM
+RMSE : 2.54 BPM
+R    : 0.1687

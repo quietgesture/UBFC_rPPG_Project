@@ -1,0 +1,4 @@
+Subject 47 POS Evaluation
+MAE  : 1.34 BPM
+RMSE : 1.62 BPM
+R    : 0.9943

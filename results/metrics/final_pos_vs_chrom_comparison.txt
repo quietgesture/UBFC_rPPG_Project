@@ -1,0 +1,21 @@
+FINAL POS vs CHROM COMPARISON
+====================================
+
+Number of subjects: 42
+
+Mean MAE (BPM)
+POS   : 7.1648
+CHROM : 6.8567
+Difference: 0.3081
+Relative difference: 4.30%
+
+Mean RMSE (BPM)
+POS   : 10.1931
+CHROM : 9.6143
+Difference: 0.5788
+Relative difference: 5.68%
+
+Mean Correlation (R)
+POS   : 0.3401
+CHROM : 0.3550
+Difference: 0.0149

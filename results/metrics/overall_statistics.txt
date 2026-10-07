@@ -1,0 +1,15 @@
+============================================================
+       UBFC rPPG OVERALL STATISTICAL ANALYSIS
+============================================================
+
+Number of subjects: 42
+
+         Metric  POS Mean  POS Median  POS Std  POS Minimum  POS Maximum  CHROM Mean  CHROM Median  CHROM Std  CHROM Minimum  CHROM Maximum
+      MAE (BPM)    7.1648      3.2900  12.4134       0.5100      74.5500      6.8567        3.1950    12.3679         0.4700        74.5800
+     RMSE (BPM)   10.1931      4.0950  16.5829       0.5400      87.1900      9.6143        4.2350    16.4885         0.4800        87.2100
+Correlation (R)    0.3401      0.5858   0.6091      -0.8073       0.9967      0.3550        0.6666     0.6092        -0.7681         0.9966
+
+Metric definitions:
+MAE  = Mean Absolute Error (BPM)
+RMSE = Root Mean Square Error (BPM)
+R    = Pearson correlation coefficient

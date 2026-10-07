@@ -1,0 +1,4 @@
+Subject 8 POS Evaluation
+MAE  : 2.02 BPM
+RMSE : 2.84 BPM
+R    : 0.8814

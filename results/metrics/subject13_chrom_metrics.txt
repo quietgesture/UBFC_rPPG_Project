@@ -1,0 +1,4 @@
+Subject 13 CHROM Evaluation
+MAE  : 1.73 BPM
+RMSE : 2.01 BPM
+R    : 0.9538

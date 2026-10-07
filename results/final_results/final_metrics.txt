@@ -1,0 +1,23 @@
+UBFC rPPG FINAL TEST COMPARISON
+================================
+
+Test Subjects:
+3, 4, 12, 17, 41, 44, 48
+
+Test Samples:
+40
+
+POS
+MAE  : 6.6511 BPM
+RMSE : 10.9714 BPM
+R    : 0.7699
+
+CHROM
+MAE  : 5.7163 BPM
+RMSE : 9.4901 BPM
+R    : 0.7992
+
+CNN
+MAE  : 5.1224 BPM
+RMSE : 6.7836 BPM
+R    : 0.8801

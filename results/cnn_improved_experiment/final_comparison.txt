@@ -1,0 +1,20 @@
+POS / CHROM / CNN OVERALL COMPARISON
+====================================
+
+Test Samples: 40
+
+Method    MAE (BPM)    RMSE (BPM)    Correlation R
+---------------------------------------------------
+POS       6.6511       10.9714       0.7699
+CHROM     5.7163        9.4901       0.7992
+CNN       5.1224        6.7836       0.8801
+
+CNN TEST SET
+------------
+Subjects: 3, 4, 12, 17, 41, 44, 48
+Samples: 40
+
+CNN:
+MAE  = 5.1224 BPM
+RMSE = 6.7836 BPM
+R    = 0.8801

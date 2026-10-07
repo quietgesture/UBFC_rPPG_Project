@@ -1,0 +1,4 @@
+Subject 11 POS Evaluation
+MAE  : 30.76 BPM
+RMSE : 55.50 BPM
+R    : -0.6120

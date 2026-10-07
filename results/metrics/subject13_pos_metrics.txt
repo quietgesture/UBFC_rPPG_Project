@@ -1,0 +1,4 @@
+Subject 13 POS Evaluation
+MAE  : 1.85 BPM
+RMSE : 2.07 BPM
+R    : 0.9513

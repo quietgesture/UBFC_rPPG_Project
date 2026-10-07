@@ -1,0 +1,4 @@
+Subject 22 POS Evaluation
+MAE  : 1.85 BPM
+RMSE : 2.29 BPM
+R    : 0.9493

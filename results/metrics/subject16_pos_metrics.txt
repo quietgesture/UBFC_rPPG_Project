@@ -1,0 +1,4 @@
+Subject 16 POS Evaluation
+MAE  : 2.63 BPM
+RMSE : 4.63 BPM
+R    : -0.0461
